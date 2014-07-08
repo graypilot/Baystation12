@@ -1,4 +1,4 @@
-var/list/sacrificed = list()
+*/*var/list/sacrificed = list()
 
 /obj/effect/rune
 /////////////////////////////////////////FIRST RUNE
@@ -1038,3 +1038,4 @@ var/list/sacrificed = list()
 
 			del(src)
 			return
+*/*

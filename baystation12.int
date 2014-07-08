@@ -1,6 +1,9 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
+WINDOW: icons\obj\syringe.dmi;code\game\objects\items\weapons\dna_injector.dm;code\game\objects\items\weapons\tools.dm;code\game\objects\items\weapons\weaponry.dm;code\game\objects\items\weapons\storage\belt.dm;code\game\objects\objs.dm;code\game\gamemodes\extended\extended.dm;code\game\gamemodes\cult\cult.dm;code\game\gamemodes\cult\cult_items.dm;code\game\gamemodes\cult\cult_structures.dm;code\game\gamemodes\cult\ritual.dm;code\game\gamemodes\cult\runes.dm;code\game\gamemodes\cult\talisman.dm;baystation12.dme
+DIR: code code\game code\game\gamemodes code\game\gamemodes\cult code\game\gamemodes\extended code\game\jobs\job code\game\objects code\game\objects\items code\game\objects\items\weapons code\game\objects\items\weapons\storage code\js 
+FILE: baystation12.dme
 AUTO_FILE_DIR: OFF
 */
 // END_INTERNALS

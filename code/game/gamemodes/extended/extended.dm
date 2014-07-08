@@ -1,4 +1,4 @@
-/datum/game_mode/extended
+*/*/datum/game_mode/extended
 	name = "extended"
 	config_tag = "extended"
 	required_players = 0
@@ -20,3 +20,4 @@
 	spawn (rand(waittime_l, waittime_h)) // To reduce extended meta.
 		send_intercept()
 	..()
+*/*

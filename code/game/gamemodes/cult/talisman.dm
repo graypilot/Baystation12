@@ -1,4 +1,4 @@
-/obj/item/weapon/paper/talisman
+*/*/obj/item/weapon/paper/talisman
 	icon_state = "paper_talisman"
 	var/imbue = null
 	var/uses = 0
@@ -121,3 +121,4 @@
 /obj/item/weapon/paper/talisman/supply
 	imbue = "supply"
 	uses = 5
+*/*

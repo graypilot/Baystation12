@@ -1,4 +1,4 @@
-/obj/item/weapon/melee/cultblade
+*/*/obj/item/weapon/melee/cultblade
 	name = "Cult Blade"
 	desc = "An arcane weapon wielded by the followers of Nar-Sie"
 	icon_state = "cultblade"
@@ -102,3 +102,4 @@
 	slowdown = 1
 	armor = list(melee = 60, bullet = 50, laser = 30,energy = 15, bomb = 30, bio = 30, rad = 30)
 	siemens_coefficient = 0
+*/*

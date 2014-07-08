@@ -1,4 +1,4 @@
-/obj/structure/cult
+*/*/obj/structure/cult
 	density = 1
 	anchored = 1
 	icon = 'icons/obj/cult.dmi'
@@ -55,3 +55,4 @@
 	spawn(0)
 		return
 	return
+*/*
